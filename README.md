@@ -8,10 +8,7 @@
 ขั้นตอนการปรับใช้ (Deployment)
 ให้ใช้คำสั่งต่อไปนี้:
 
-bash
-Copy
-Edit
-git clone https://github.com/yemisprojects/use_s3_website_demo_module 
+ 
 terraform init
 terraform plan
 terraform apply --auto-approve 
